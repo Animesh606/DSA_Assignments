@@ -1,0 +1,180 @@
+PS D:\VS Code> cd "d:\VS Code\C\DSA assignment\Day3\" ; if ($?) { gcc Problem_3.c -o Problem_3 } ; if ($?) { .\Problem_3 }
+Choose an option:
+1. Append new record of a student to the existing file.
+2. Delete a record of a specific student.
+3. Update a field of student.
+4. Display all records
+0. Exit
+ : 1
+Enter your name: Animesh Bag
+Enter your roll no.: 18
+Enter your Data Structure and Algorithm Marks : 34
+Enter your Computer Organisation Marks : 45
+Enter your Digital Electronics Marks : 40
+Choose an option:
+1. Append new record of a student to the existing file.
+2. Delete a record of a specific student.
+3. Update a field of student.
+4. Display all records
+0. Exit
+ : 1
+Enter your name: Sayan Majumder
+Enter your roll no.: 23
+Enter your Data Structure and Algorithm Marks : 56
+Enter your Computer Organisation Marks : 54
+Enter your Digital Electronics Marks : 60
+Choose an option:
+1. Append new record of a student to the existing file.
+2. Delete a record of a specific student.
+3. Update a field of student.
+4. Display all records
+0. Exit
+ : 1
+Enter your name: Vivek Yadav
+Enter your roll no.: 33
+Enter your Data Structure and Algorithm Marks : 34
+Enter your Computer Organisation Marks : 54
+Enter your Digital Electronics Marks : 42
+Choose an option:
+1. Append new record of a student to the existing file.
+2. Delete a record of a specific student.
+3. Update a field of student.
+4. Display all records
+0. Exit
+ : 4
+Name : Animesh Bag 
+Roll No. : 18
+Data Structure & Algorithm : 34
+Computer Organisation : 45
+Digital Electronics : 40
+
+Name : Sayan Majumder
+Roll No. : 23
+Data Structure & Algorithm : 56
+Computer Organisation : 54
+Digital Electronics : 60
+
+Name : Vivek Yadav
+Roll No. : 33
+Data Structure & Algorithm : 34
+Computer Organisation : 54
+Digital Electronics : 42
+
+Choose an option:
+1. Append new record of a student to the existing file.
+2. Delete a record of a specific student.
+3. Update a field of student.
+4. Display all records
+0. Exit
+ : 2
+Choose an option:
+1. Search by Name
+2. Search by Roll No.
+ : 1
+Enter name of the student: Vivek Yadav
+Record found and deleted!!
+Choose an option:
+1. Append new record of a student to the existing file.
+2. Delete a record of a specific student.
+3. Update a field of student.
+4. Display all records
+0. Exit
+ : 4
+Name : Animesh Bag 
+Roll No. : 18
+Data Structure & Algorithm : 34
+Computer Organisation : 45
+Digital Electronics : 40
+
+Name : Sayan Majumder
+Roll No. : 23
+Data Structure & Algorithm : 56
+Computer Organisation : 54
+Digital Electronics : 60
+
+Choose an option:
+1. Append new record of a student to the existing file.
+2. Delete a record of a specific student.
+3. Update a field of student.
+4. Display all records
+0. Exit
+ : 2
+Choose an option:
+1. Search by Name
+2. Search by Roll No.
+ : 2
+Enter Roll No of the student: 23
+Record found and deleted!!
+Choose an option:
+1. Append new record of a student to the existing file.
+2. Delete a record of a specific student.
+3. Update a field of student.
+4. Display all records
+0. Exit
+ : 4
+Name : Animesh Bag 
+Roll No. : 18
+Data Structure & Algorithm : 34
+Computer Organisation : 45
+Digital Electronics : 40
+
+Choose an option:
+1. Append new record of a student to the existing file.
+2. Delete a record of a specific student.
+3. Update a field of student.
+4. Display all records
+0. Exit
+ : 1
+Enter your name: Akash Mondal
+Enter your roll no.: 61
+Enter your Data Structure and Algorithm Marks : 65
+Enter your Computer Organisation Marks : 54
+Enter your Digital Electronics Marks : 56
+Choose an option:
+1. Append new record of a student to the existing file.
+2. Delete a record of a specific student.
+3. Update a field of student.
+4. Display all records
+0. Exit
+ : 3
+Choose an option:
+1. Search by Name
+2. Search by Roll No.
+ : 2
+Enter Roll No of the student: 18
+What field do you want to update?
+1. Name
+2. Roll No.
+3. Data Structure & Algorithm Marks
+4. Computer Organisation Marks
+5. Digital Electronics Marks
+ : 3
+Enter New Data Structure & Algorithm Marks : 69
+Record found and deleted!!
+Choose an option:
+1. Append new record of a student to the existing file.
+2. Delete a record of a specific student.
+3. Update a field of student.
+4. Display all records
+0. Exit
+ : 4
+Name : Animesh Bag 
+Roll No. : 18
+Data Structure & Algorithm : 69
+Computer Organisation : 45
+Digital Electronics : 40
+
+Name : Akash Mondal
+Roll No. : 61
+Data Structure & Algorithm : 65
+Computer Organisation : 54
+Digital Electronics : 56
+
+Choose an option:
+1. Append new record of a student to the existing file.
+2. Delete a record of a specific student.
+3. Update a field of student.
+4. Display all records
+0. Exit
+ : 0
+exiting.....

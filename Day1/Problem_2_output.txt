@@ -1,0 +1,65 @@
+PS D:\VS Code> cd "d:\VS Code\C\DSA assignment\Day1\" ; if ($?) { gcc Problem_2.c -o Problem_2 } ; if ($?) { .\Problem_2 }
+Choose from the following options:
+1.      Check whether a given number is prime or not?
+2.      Check whether a given number is Armstrong or not?
+3.      Find out the largest among three numbers.
+4.      Exit
+1
+Enter the number: 1
+1 is not a Prime Number!!!
+Choose from the following options:
+1.      Check whether a given number is prime or not?
+2.      Check whether a given number is Armstrong or not?
+3.      Find out the largest among three numbers.
+4.      Exit
+1
+Enter the number: 31
+31 is a prime Number!!!
+Choose from the following options:
+1.      Check whether a given number is prime or not?
+2.      Check whether a given number is Armstrong or not?
+3.      Find out the largest among three numbers.
+4.      Exit
+1
+Enter the number: 36
+36 is not a Prime Number!!!
+Choose from the following options:
+1.      Check whether a given number is prime or not?
+2.      Check whether a given number is Armstrong or not?
+3.      Find out the largest among three numbers.
+4.      Exit
+2
+Enter the number: 153
+153 is a Armstrong Number!!!
+Choose from the following options:
+1.      Check whether a given number is prime or not?
+2.      Check whether a given number is Armstrong or not?
+3.      Find out the largest among three numbers.
+4.      Exit
+2 
+Enter the number: 125
+125 is not a Armstrong Number!!!
+Choose from the following options:
+1.      Check whether a given number is prime or not?
+2.      Check whether a given number is Armstrong or not?
+3.      Find out the largest among three numbers.
+4.      Exit
+3
+Enter the three numbers:
+45 25 63
+The maximum number is 63
+Choose from the following options:
+1.      Check whether a given number is prime or not?
+2.      Check whether a given number is Armstrong or not?
+3.      Find out the largest among three numbers.
+4.      Exit
+3 
+Enter the three numbers:
+22 22 22
+The maximum number is 22
+Choose from the following options:
+1.      Check whether a given number is prime or not?
+2.      Check whether a given number is Armstrong or not?
+3.      Find out the largest among three numbers.
+4.      Exit
+4

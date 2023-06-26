@@ -1,0 +1,54 @@
+PS D:\VS Code> cd "d:\VS Code\C\DSA assignment\Day13\" ; if ($?) { gcc Problem_1.c -o Problem_1 } ; if ($?) { .\Problem_1 }
+
+1.creat 
+2.display 
+  a.inorder traversal 
+  b.Postorder traversal 
+  c.Preorder traversal
+3.sort
+4 exit
+please choose what you want-1
+Please enter the size of the array-6
+PLease enter the value-45 75 85 65 25 35 
+PLease enter the value-PLease enter the value-PLease enter the value-PLease enter the value-PLease enter the value-
+1.creat 
+2.display 
+  a.inorder traversal 
+  b.Postorder traversal 
+  c.Preorder traversal
+3.sort
+4 exit
+please choose what you want-2
+
+The inorder traversal is--45 65 25 85 35 75 
+The postorder traversal is--45 25 65 35 75 85 
+The preorder traversal is--85 65 45 25 75 35 
+1.creat 
+2.display 
+  a.inorder traversal 
+  b.Postorder traversal 
+  c.Preorder traversal
+3.sort
+4 exit
+please choose what you want-3
+The heap sorted array is- 25  35  45  65  75  85 
+1.creat 
+2.display 
+  a.inorder traversal 
+  b.Postorder traversal
+  c.Preorder traversal
+3.sort
+4 exit
+please choose what you want-2
+
+The inorder traversal is--65 35 75 25 85 45
+The postorder traversal is--65 75 35 85 45 25
+The preorder traversal is--25 35 65 75 45 85
+1.creat
+2.display
+  a.inorder traversal
+  b.Postorder traversal
+  c.Preorder traversal
+3.sort
+4 exit
+please choose what you want-4

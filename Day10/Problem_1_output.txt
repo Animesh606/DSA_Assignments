@@ -1,0 +1,5 @@
+PS D:\VS Code> cd "d:\VS Code\C\DSA assignment\Day10\" ; if ($?) { gcc Problem_1.c -o Problem_1 } ; if ($?) { .\Problem_1 }
+Enter the Infix Expression: 
+a+b*c^d/(x-y)
+The postfix expression is:
+abcd^*xy-/+

@@ -1,0 +1,77 @@
+PS D:\VS Code> cd "d:\VS Code\C\DSA assignment\Day3\" ; if ($?) { gcc Problem_2.c -o Problem_2 } ; if ($?) { .\Problem_2 }
+
+Choose an option:
+1. Reading a file.
+2. Writing a file.
+3. Closing a file.
+4. Reading and writing strings to file.
+5. Reading and writing binary files.
+ : 2
+Please write the contents:
+Hello, I am Animesh Bag. Writing this file...
+
+Choose an option:
+1. Reading a file.
+2. Writing a file.
+3. Closing a file.
+4. Reading and writing strings to file.
+5. Reading and writing binary files.
+ : 1
+The content of file are: 
+Hello, I am Animesh Bag. Writing this file... 
+
+Choose an option:
+1. Reading a file.
+2. Writing a file.
+3. Closing a file.
+4. Reading and writing strings to file.
+5. Reading and writing binary files.
+ : 4
+The content of file are: 
+Hello, I am Animesh Bag. Writing this file... 
+Add more contents :
+This is a file handling question
+
+Choose an option:
+1. Reading a file.
+2. Writing a file.
+3. Closing a file.
+4. Reading and writing strings to file.
+5. Reading and writing binary files.
+ : 1
+The content of file are: 
+Hello, I am Animesh Bag. Writing this file...
+This is a file handling question 
+
+Choose an option:
+1. Reading a file.
+2. Writing a file.
+3. Closing a file.
+4. Reading and writing strings to file.
+5. Reading and writing binary files.
+ : 5
+The contents of the file are :
+ä
+Add more content: This is a binary file
+
+Choose an option:
+1. Reading a file.
+2. Writing a file.
+3. Closing a file.
+4. Reading and writing strings to file.
+5. Reading and writing binary files.
+ : 5
+The contents of the file are :
+This is a binary file
+Add more content:  and this is readable and writable
+
+Choose an option:
+1. Reading a file.
+2. Writing a file.
+3. Closing a file.
+4. Reading and writing strings to file.
+5. Reading and writing binary files.
+ : 5
+The contents of the file are :
+This is a binary file and this is readable and writable
+Add more content: thats all

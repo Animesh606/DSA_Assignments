@@ -1,0 +1,77 @@
+PS D:\VS Code> cd "d:\VS Code\C\DSA assignment\Day4\" ; if ($?) { gcc Problem_1.c -o Problem_1 } ; if ($?) { .\Problem_1 }
+1. Print the contents of FILE: 
+2. Copy contents of one file to another file: 
+3. Merge content of two file into a third file: 
+4. Delete a specific file: 
+0. Exit
+ Choose an option: 1
+Enter the file name: 
+hello.txt
+Hello, I am Animesh Bag.
+1. Print the contents of FILE: 
+2. Copy contents of one file to another file: 
+3. Merge content of two file into a third file: 
+4. Delete a specific file: 
+0. Exit
+ Choose an option: 2
+copy from : hello.txt
+copy to : hello3.txt
+1. Print the contents of FILE: 
+2. Copy contents of one file to another file: 
+3. Merge content of two file into a third file: 
+4. Delete a specific file: 
+0. Exit
+ Choose an option: 1
+Enter the file name: 
+hello3.txt
+Hello, I am Animesh Bag.
+1. Print the contents of FILE: 
+2. Copy contents of one file to another file: 
+3. Merge content of two file into a third file: 
+4. Delete a specific file: 
+0. Exit
+ Choose an option: 1
+Enter the file name: 
+hello2.txt
+Handling the files with copy and Merging files.
+1. Print the contents of FILE: 
+2. Copy contents of one file to another file: 
+3. Merge content of two file into a third file:
+4. Delete a specific file:
+0. Exit
+ Choose an option: 3
+1st filename : hello.txt
+2nd filename : hello2.txt
+new filename : hello3.txt
+1. Print the contents of FILE: 
+2. Copy contents of one file to another file:
+3. Merge content of two file into a third file:
+4. Delete a specific file:
+0. Exit
+ Choose an option: 1
+Enter the file name: 
+hello3.txt
+Hello, I am Animesh Bag.
+Handling the files with copy and Merging files.
+1. Print the contents of FILE:
+2. Copy contents of one file to another file:
+3. Merge content of two file into a third file:
+4. Delete a specific file:
+0. Exit
+ Choose an option: 4
+Enter the filename : hello3.txt
+1. Print the contents of FILE: 
+2. Copy contents of one file to another file:
+3. Merge content of two file into a third file:
+4. Delete a specific file:
+0. Exit
+ Choose an option: 1
+Enter the file name: 
+hello3.txt
+
+1. Print the contents of FILE:
+2. Copy contents of one file to another file:
+3. Merge content of two file into a third file:
+4. Delete a specific file:
+0. Exit
+ Choose an option: 0

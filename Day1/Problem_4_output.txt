@@ -1,0 +1,29 @@
+PS D:\VS Code> cd "d:\VS Code\C\DSA assignment\Day1\" ; if ($?) { gcc Problem_4.c -o Problem_4 } ; if ($?) { .\Problem_4 }
+Enter size of string : 4
+Enter the string : abcd
+All the Combination are : 
+abcd
+abdc
+acbd
+acdb
+adcb
+adbc
+bacd
+badc
+bcad
+bcda
+bdca
+bdac
+cbad
+cbda
+cabd
+cadb
+cdab
+cdba
+dbca
+dbac
+dcba
+dcab
+dacb
+dabc
+TOTAL NUMBER OF STRINGS: 24

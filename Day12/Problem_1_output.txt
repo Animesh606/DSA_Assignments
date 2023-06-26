@@ -1,0 +1,83 @@
+PS D:\VS Code> cd "d:\VS Code\C\DSA assignment\Day12\" ; if ($?) { gcc Problem_1.c -o Problem_1 } ; if ($?) { .\Problem_1 }
+Enter your choice:
+1. Create a BST
+2. Display
+3. Search an Element
+4. Insert an element
+5. Delete an Element
+0. Exit
+ : 1
+Enter the number of Element : 7
+Enter the list :
+10 11 7 8 5 3 4 
+The preorder Traversal :  10 7 5 3 4 8 11
+The inorder Traversal :  3 4 5 7 8 10 11
+The postorder Traversal :  4 3 5 8 7 11 10
+Enter your choice:
+1. Create a BST
+2. Display
+3. Search an Element
+4. Insert an element
+5. Delete an Element
+0. Exit
+ : 3
+Enter the data : 5
+5 is present in BST!!!
+Enter your choice:
+1. Create a BST
+2. Display
+3. Search an Element
+4. Insert an element
+5. Delete an Element
+0. Exit
+ : 3
+Enter the data : 12
+12 is not present!!!
+Enter your choice:
+1. Create a BST
+2. Display
+3. Search an Element
+4. Insert an element
+5. Delete an Element
+0. Exit
+ : 4
+Enter the data : 9
+Enter your choice:
+1. Create a BST
+2. Display
+3. Search an Element
+4. Insert an element
+5. Delete an Element
+0. Exit
+ : 2
+The preorder Traversal :  10 7 5 3 4 8 9 11
+The inorder Traversal :  3 4 5 7 8 9 10 11
+The postorder Traversal :  4 3 5 9 8 7 11 10
+Enter your choice:
+1. Create a BST
+2. Display
+3. Search an Element
+4. Insert an element
+5. Delete an Element
+0. Exit
+ : 5
+Enter the data : 10
+Enter your choice:
+1. Create a BST
+2. Display
+3. Search an Element
+4. Insert an element
+5. Delete an Element
+0. Exit
+ : 2
+The preorder Traversal :  9 7 5 3 4 8 11
+The inorder Traversal :  3 4 5 7 8 9 11
+The postorder Traversal :  4 3 5 8 7 11 9
+Enter your choice:
+1. Create a BST
+2. Display
+3. Search an Element
+4. Insert an element
+5. Delete an Element
+0. Exit
+ : 0

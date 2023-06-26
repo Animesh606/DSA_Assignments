@@ -1,0 +1,163 @@
+PS D:\VS Code> cd "d:\VS Code\C\DSA assignment\Day11\" ; if ($?) { gcc Problem_1.c -o Problem_1 } ; if ($?) { .\Problem_1 }
+Choose a queue to operate :
+1. Static Queue
+2. Dynamic Queue
+3. Circular Queue
+0. Exit
+ :1
+Choose an operation :
+1. Insert
+2. Delete
+3. Display
+0. Exit
+ : 3
+Queue is empty!!
+Choose an operation :
+1. Insert
+2. Delete
+3. Display
+0. Exit
+ : 1
+Enter the data : 25
+Choose an operation :
+1. Insert
+2. Delete
+3. Display
+0. Exit
+ : 1
+Enter the data : 45
+Choose an operation :
+1. Insert
+2. Delete
+3. Display
+0. Exit
+ : 3
+Front -> 25 -> 45 <- Rear
+Choose an operation :
+1. Insert
+2. Delete
+3. Display
+0. Exit
+ : 2
+Choose an operation :
+1. Insert
+2. Delete
+3. Display
+0. Exit
+ : 3
+Front -> 45 <- Rear
+Choose an operation :
+1. Insert
+2. Delete
+3. Display
+0. Exit
+ : 0
+Back to main menu...
+Choose a queue to operate :
+1. Static Queue
+2. Dynamic Queue
+3. Circular Queue
+0. Exit
+ :2
+Choose an operation :
+1. Insert
+2. Delete
+3. Display
+0. Exit
+ : 1
+Enter the data : 78
+Choose an operation :
+1. Insert
+2. Delete
+3. Display
+0. Exit
+ : 1
+Enter the data : 69
+Choose an operation :
+1. Insert
+2. Delete
+3. Display
+0. Exit
+ : 3
+front -> 78 -> 69 <- rear
+Choose an operation :
+1. Insert
+2. Delete
+3. Display
+0. Exit
+ : 2
+Choose an operation :
+1. Insert
+2. Delete
+3. Display
+0. Exit
+ : 3
+front -> 69 <- rear
+Choose an operation :
+1. Insert
+2. Delete
+3. Display
+0. Exit
+ : 0
+Back to main menu...
+Choose a queue to operate :
+1. Static Queue
+2. Dynamic Queue
+3. Circular Queue
+0. Exit
+ :3
+Choose an operation :
+1. Insert
+2. Delete
+3. Display
+0. Exit
+ : 3
+Queue is empty!!
+Choose an operation :
+1. Insert
+2. Delete
+3. Display
+0. Exit
+ : 1
+Enter the data : 58
+Choose an operation :
+1. Insert
+2. Delete
+3. Display
+0. Exit
+ : 1
+Enter the data : 36
+Choose an operation :
+1. Insert
+2. Delete
+3. Display
+0. Exit
+ : 3
+Front -> 58 -> 36 <- Rear
+Choose an operation :
+1. Insert
+2. Delete
+3. Display
+0. Exit
+ : 2
+Choose an operation :
+1. Insert
+2. Delete
+3. Display
+0. Exit
+ : 3
+Front -> 36 <- Rear
+Choose an operation :
+1. Insert
+2. Delete
+3. Display
+0. Exit
+ : 0
+Back to main menu...
+Choose a queue to operate :
+1. Static Queue
+2. Dynamic Queue
+3. Circular Queue
+0. Exit
+ :0
+Exiting...

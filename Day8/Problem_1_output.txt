@@ -1,0 +1,116 @@
+PS D:\VS Code> cd "d:\VS Code\C\DSA assignment\Day8\" ; if ($?) { gcc Problem_1.c -o Problem_1 } ; if ($?) { .\Problem_1 }
+Enter a choice
+1: Creation 
+2. Deletion 
+3: Search 
+4: Display 
+5: Insertion 
+6: Reverse 
+0: Exit 
+ : 1
+Enter data
+12
+Do you want to continue(y/n) ?  y
+Enter data
+25
+Do you want to continue(y/n) ?  y
+Enter data
+36
+Do you want to continue(y/n) ?  y
+Enter data
+85
+Do you want to continue(y/n) ?  n
+Enter a choice
+1: Creation 
+2. Deletion 
+3: Search 
+4: Display 
+5: Insertion 
+6: Reverse 
+0: Exit 
+ : 4
+Start -> 12 -> 25 -> 36 -> 85 ->NULL
+Enter a choice
+1: Creation 
+2. Deletion 
+3: Search 
+4: Display 
+5: Insertion 
+6: Reverse
+0: Exit
+ : 2
+Enter the position
+4 
+Enter a choice
+1: Creation
+2. Deletion
+3: Search
+4: Display
+5: Insertion
+6: Reverse
+0: Exit
+ : 4
+Start -> 12 -> 25 -> 36 ->NULL
+Enter a choice
+1: Creation
+2. Deletion
+3: Search
+4: Display
+5: Insertion
+6: Reverse
+0: Exit
+ : 3
+Enter the element that you want to search
+25
+The position of the element is : 2
+Enter a choice
+1: Creation
+2. Deletion
+3: Search
+4: Display
+5: Insertion
+6: Reverse
+0: Exit
+ : 5
+Enter the position
+2
+Enter data
+45
+Enter a choice
+1: Creation
+2. Deletion
+3: Search
+4: Display
+5: Insertion
+6: Reverse
+0: Exit
+ : 4
+Start -> 12 -> 45 -> 25 -> 36 ->NULL
+Enter a choice
+1: Creation
+2. Deletion
+3: Search
+4: Display
+5: Insertion
+6: Reverse
+0: Exit
+ : 6
+Enter a choice
+1: Creation
+2. Deletion
+3: Search
+4: Display
+5: Insertion
+6: Reverse
+0: Exit
+ : 4
+Start -> 36 -> 25 -> 45 -> 12 ->NULL
+Enter a choice
+1: Creation
+2. Deletion
+3: Search
+4: Display
+5: Insertion
+6: Reverse
+0: Exit
+ : 0

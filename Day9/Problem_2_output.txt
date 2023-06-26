@@ -1,0 +1,53 @@
+PS D:\VS Code> cd "d:\VS Code\C\DSA assignment\Day9\" ; if ($?) { gcc Problem_2.c -o Problem_2 } ; if ($?) { .\Problem_2 }
+Choose option:
+1. Push
+2. Pop
+3. Display
+0. Exit
+ : 3
+Stack is empty!!
+Choose option:
+1. Push
+2. Pop
+3. Display
+0. Exit
+ : 1
+Enter a data to push: 25
+Choose option:
+1. Push
+2. Pop
+3. Display
+0. Exit
+ : 1
+Enter a data to push: 36
+Choose option:
+1. Push
+2. Pop
+3. Display
+0. Exit
+ : 3
+The Stack is :
+    Top  -> 36
+         -> 25
+
+Choose option:
+1. Push
+2. Pop
+3. Display
+0. Exit
+ : 2
+Choose option:
+1. Push
+2. Pop
+3. Display
+0. Exit
+ : 3
+The Stack is :
+    Top  -> 25
+
+Choose option:
+1. Push
+2. Pop
+3. Display
+0. Exit
+ : 0

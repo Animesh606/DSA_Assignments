@@ -1,0 +1,76 @@
+PS D:\VS Code> cd "d:\VS Code\C\DSA assignment\Day9\" ; if ($?) { gcc Problem_1.c -o Problem_1 } ; if ($?) { .\Problem_1 }
+Choose an option:
+1. Create a Circular Linkedlist
+2. Display
+3. Insert an element
+4. Delete an element
+5. Search an element
+0. Exit
+ : 1
+Enter the numer of data : 5
+Enter all data : 
+7 8 6 2 4
+Choose an option:
+1. Create a Circular Linkedlist
+2. Display
+3. Insert an element
+4. Delete an element
+5. Search an element
+0. Exit
+ : 2
+Head -> 7 -> 8 -> 6 -> 2 -> 4 -> Head
+Choose an option:
+1. Create a Circular Linkedlist
+2. Display
+3. Insert an element
+4. Delete an element
+5. Search an element
+0. Exit
+ : 3
+Enter the position where to insert : 4
+Enter a data to be inserted : 25
+Choose an option:
+1. Create a Circular Linkedlist
+2. Display
+3. Insert an element
+4. Delete an element
+5. Search an element
+0. Exit
+ : 2
+Head -> 7 -> 8 -> 6 -> 25 -> 2 -> 4 -> Head
+Choose an option:
+1. Create a Circular Linkedlist
+2. Display
+3. Insert an element
+4. Delete an element
+5. Search an element
+0. Exit
+ : 4
+Enter the position to be deleted : 4
+Choose an option:
+1. Create a Circular Linkedlist
+2. Display
+3. Insert an element
+4. Delete an element
+5. Search an element
+0. Exit
+ : 2
+Head -> 7 -> 8 -> 6 -> 2 -> 4 -> Head
+Choose an option:
+1. Create a Circular Linkedlist
+2. Display
+3. Insert an element
+4. Delete an element
+5. Search an element
+0. Exit
+ : 5
+Enter the data to be find : 6
+6 is present at 3th position!!
+Choose an option:
+1. Create a Circular Linkedlist
+2. Display
+3. Insert an element
+4. Delete an element
+5. Search an element
+0. Exit
+ : 0

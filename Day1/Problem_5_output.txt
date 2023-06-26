@@ -1,0 +1,4 @@
+PS D:\VS Code> cd "d:\VS Code\C\DSA assignment\Day1\" ; if ($?) { gcc Problem_5.c -o Problem_5 } ; if ($?) { .\Problem_5 }
+Enter the string : animesh
+The length of the string is 7
+The reverse string is hsemina

@@ -1,0 +1,33 @@
+PS D:\VS Code> cd "d:\VS Code\C\DSA assignment\Day11\" ; if ($?) { gcc Problem_2.c -o Problem_2 } ; if ($?) { .\Problem_2 }
+Enter the Number : 5
+Shift rock from A to C
+Shift rock from A to B
+Shift rock from C to B
+Shift rock from A to C
+Shift rock from B to A
+Shift rock from B to C
+Shift rock from A to C
+Shift rock from A to B
+Shift rock from C to B
+Shift rock from C to A
+Shift rock from B to A
+Shift rock from C to B
+Shift rock from A to C
+Shift rock from A to B
+Shift rock from C to B
+Shift rock from A to C
+Shift rock from B to A
+Shift rock from B to C
+Shift rock from A to C
+Shift rock from B to A
+Shift rock from C to B
+Shift rock from C to A
+Shift rock from B to A
+Shift rock from B to C
+Shift rock from A to C
+Shift rock from A to B
+Shift rock from C to B
+Shift rock from A to C
+Shift rock from B to A
+Shift rock from B to C
+Shift rock from A to C

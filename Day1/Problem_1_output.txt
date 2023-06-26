@@ -1,0 +1,8 @@
+PS D:\VS Code> cd "d:\VS Code\C\DSA assignment\Day1\" ; if ($?) { gcc Problem_1.c -o Problem_1 } ; if ($?) { .\Problem_1 }
+Enter the number of element of fibbonacci series: 10
+Fibbonacci using For loop:
+0 1 1 2 3 5 8 13 21 34 
+Fibbonacci using while loop:
+0 1 1 2 3 5 8 13 21 34 
+Fibbonacci using Do While loop:
+0 1 1 2 3 5 8 13 21 34 

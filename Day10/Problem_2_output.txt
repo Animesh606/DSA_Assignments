@@ -1,0 +1,4 @@
+PS D:\VS Code> cd "d:\VS Code\C\DSA assignment\Day10\" ; if ($?) { gcc Problem_2.c -o Problem_2 } ; if ($?) { .\Problem_2 }
+Enter the postfix Expression:
+8424^*75-/+  
+The value of the expression is 40

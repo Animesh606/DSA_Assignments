@@ -1,0 +1,192 @@
+PS D:\VS Code> cd "d:\VS Code\C\DSA assignment\Day6\" ; if ($?) { gcc Problem_1.c -o Problem_1 } ; if ($?) { .\Problem_1 }
+Choose a option:
+1. Creation
+2. Display
+3. Selection Sort
+4. BubbleSort
+5. Modified Bubble Sort
+6. Insertion Sort
+7. Merge Sort
+0. Exit
+ :1
+Enter Number of Data : 5
+Enter all data : 
+78 45 12 32 65 
+Choose a option:
+1. Creation
+2. Display
+3. Selection Sort
+4. BubbleSort
+5. Modified Bubble Sort
+6. Insertion Sort
+7. Merge Sort
+0. Exit
+ :2
+Array -> 78 45 12 32 65 
+Choose a option:
+1. Creation
+2. Display
+3. Selection Sort
+4. BubbleSort
+5. Modified Bubble Sort
+6. Insertion Sort
+7. Merge Sort
+0. Exit
+ :3
+Choose a option:
+1. Creation
+2. Display
+3. Selection Sort
+4. BubbleSort
+5. Modified Bubble Sort
+6. Insertion Sort
+7. Merge Sort
+0. Exit
+ :2
+Array -> 12 32 45 65 78 
+Choose a option:
+1. Creation
+2. Display
+3. Selection Sort
+4. BubbleSort
+5. Modified Bubble Sort
+6. Insertion Sort
+7. Merge Sort
+0. Exit
+ :1
+Enter Number of Data : 6        
+Enter all data : 
+78 45 12 32 65 98 
+Choose a option:
+1. Creation
+2. Display
+3. Selection Sort
+4. BubbleSort
+5. Modified Bubble Sort
+6. Insertion Sort
+7. Merge Sort
+0. Exit
+ :4
+Choose a option:
+1. Creation
+2. Display
+3. Selection Sort
+4. BubbleSort
+5. Modified Bubble Sort
+6. Insertion Sort
+7. Merge Sort
+0. Exit
+ :2
+Array -> 12 32 45 65 78 98 
+Choose a option:
+1. Creation
+2. Display
+3. Selection Sort
+4. BubbleSort
+5. Modified Bubble Sort
+6. Insertion Sort
+7. Merge Sort
+0. Exit
+ :1
+Enter Number of Data : 6
+Enter all data : 
+12 45 78 98 65 32 
+Choose a option:
+1. Creation
+2. Display
+3. Selection Sort
+4. BubbleSort
+5. Modified Bubble Sort
+6. Insertion Sort
+7. Merge Sort
+0. Exit
+ :5
+Choose a option:
+1. Creation
+2. Display
+3. Selection Sort
+4. BubbleSort
+5. Modified Bubble Sort
+6. Insertion Sort
+7. Merge Sort
+0. Exit
+ :2
+Array -> 12 32 45 65 78 98 
+Choose a option:
+1. Creation
+2. Display
+3. Selection Sort
+4. BubbleSort
+5. Modified Bubble Sort
+6. Insertion Sort
+7. Merge Sort
+0. Exit
+ :1
+Enter Number of Data : 6
+Enter all data : 
+12 45 78 98 65 32 
+Choose a option:
+1. Creation
+2. Display
+3. Selection Sort
+4. BubbleSort
+5. Modified Bubble Sort
+6. Insertion Sort
+7. Merge Sort
+0. Exit
+ :6
+Choose a option:
+1. Creation
+2. Display
+3. Selection Sort
+4. BubbleSort
+5. Modified Bubble Sort
+6. Insertion Sort
+7. Merge Sort
+0. Exit
+ :2
+Array -> 12 32 45 65 78 98 
+Choose a option:
+1. Creation
+2. Display
+3. Selection Sort
+4. BubbleSort
+5. Modified Bubble Sort
+6. Insertion Sort
+7. Merge Sort
+0. Exit
+ :1
+Enter Number of Data : 5
+Enter all data : 
+45 65 85 25 35 
+Choose a option:
+1. Creation
+2. Display
+3. Selection Sort
+4. BubbleSort
+5. Modified Bubble Sort
+6. Insertion Sort
+7. Merge Sort
+0. Exit
+ :7
+Choose a option:
+1. Creation
+2. Display
+3. Selection Sort
+4. BubbleSort
+5. Modified Bubble Sort
+6. Insertion Sort
+7. Merge Sort
+0. Exit
+ :2
+Array -> 25 35 45 65 85 
+Choose a option:
+1. Creation
+2. Display
+3. Selection Sort
+4. BubbleSort
+5. Modified Bubble Sort
+6. Insertion Sort
+7. Merge Sort
+0. Exit
+ :0

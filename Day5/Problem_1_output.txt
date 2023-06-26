@@ -1,0 +1,127 @@
+PS D:\VS Code> cd "d:\VS Code\C\DSA assignment\Day5\" ; if ($?) { gcc Problem_1.c -o Problem_1 } ; if ($?) { .\Problem_1 }
+Enter your choice:
+1. create a array
+2. display array
+3. search a eliment
+4. Insert a new Eliment
+5. Delete an Eliment
+0. Exit
+ : 1
+Enter the size of the array: 5
+Enter the numbers: 
+4 5 2 9 7
+Enter your choice:
+1. create a array
+2. display array
+3. search a eliment
+4. Insert a new Eliment
+5. Delete an Eliment
+0. Exit
+ : 2
+The Eliments of the array are: 
+4 5 2 9 7 
+Enter your choice:
+1. create a array
+2. display array
+3. search a eliment
+4. Insert a new Eliment
+5. Delete an Eliment
+0. Exit
+ : 3
+Enter the number to be found: 9
+Is the array is sorted (y/n)? :n
+9 is present in the 4th position!!
+Enter your choice:
+1. create a array
+2. display array
+3. search a eliment
+4. Insert a new Eliment
+5. Delete an Eliment
+0. Exit
+ : 4
+Enter the number to be insert: 25
+Enter the position where to be insert: 1
+Enter your choice:
+1. create a array
+2. display array
+3. search a eliment
+4. Insert a new Eliment
+5. Delete an Eliment
+0. Exit
+ : 2
+The Eliments of the array are: 
+25 4 5 2 9 7
+Enter your choice:
+1. create a array
+2. display array
+3. search a eliment
+4. Insert a new Eliment
+5. Delete an Eliment
+0. Exit
+ : 5
+1. Deletion with position
+2. Deletion with value
+ : 1
+Enter the position from where to be delete: 1
+Enter your choice:
+1. create a array
+2. display array
+3. search a eliment
+4. Insert a new Eliment
+5. Delete an Eliment
+0. Exit
+ : 2
+The Eliments of the array are: 
+4 5 2 9 7
+Enter your choice:
+1. create a array
+2. display array
+3. search a eliment
+4. Insert a new Eliment
+5. Delete an Eliment
+0. Exit
+ : 5
+1. Deletion with position
+2. Deletion with value
+ : 2
+Enter the number to be delete: 7
+Enter your choice:
+1. create a array
+2. display array
+3. search a eliment
+4. Insert a new Eliment
+5. Delete an Eliment
+0. Exit
+ : 2
+The Eliments of the array are: 
+4 5 2 9
+Enter your choice:
+1. create a array
+2. display array
+3. search a eliment
+4. Insert a new Eliment
+5. Delete an Eliment
+0. Exit
+ : 1
+Enter the size of the array: 6
+Enter the numbers: 
+2 3 4 6 8 9
+Enter your choice:
+1. create a array
+2. display array
+3. search a eliment
+4. Insert a new Eliment
+5. Delete an Eliment
+0. Exit
+ : 3
+Enter the number to be found: 8
+Is the array is sorted (y/n)? :y
+8 is present in the 5th position!!
+Enter your choice:
+1. create a array
+2. display array
+3. search a eliment
+4. Insert a new Eliment
+5. Delete an Eliment
+0. Exit
+ : 0
